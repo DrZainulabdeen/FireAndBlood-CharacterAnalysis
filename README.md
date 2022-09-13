@@ -20,11 +20,13 @@ pip install networkx
 ```
 pip install pyvis
 pip install matplotlib
+pip install python-louvain
 ```
 5. Data analysis
 ```
 pip install pandas
 pip install numpy
+pip install scipy
 ```
 
 ## Project Structure
