@@ -7,13 +7,24 @@ This project is to identify the most important characters and relations between 
 ```
 pip install bs4 
 ```
-2. To create network graph
+2. For nlp tasks
+```
+pip install spacy
+python -m spacy download en_core_web_sm
+```
+3. To create network graph
 ```
 pip install networkx 
 ```
-3. For visualization of network graph
+4. For visualization of network graph
 ```
-pip install pyvis 
+pip install pyvis
+pip install matplotlib
+```
+5. Data analysis
+```
+pip install pandas
+pip install numpy
 ```
 
 ## Project Structure
